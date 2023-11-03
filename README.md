@@ -1,5 +1,9 @@
 ## Bayesian Models for CE Analysis of a Prognostic Model for Sudden Cardiac Death (SCD) in Hypertrophic Cardiomyopathy (HCM)
 
+:loudspeaker: This is the code repository for the corresponding manuscript:
+
+[Nathan Green, Yang Chen, Constantinos O'Mahony, Perry M Elliott, Roberto Barriales-Villa, Lorenzo Monserrat, Aristides Anastasakis, Elena Biagini, Juan Ramon Gimeno, Giuseppe Limongelli, Menelaos Pavlou, Rumana Z Omar, A cost-effectiveness analysis of hypertrophic cardiomyopathy sudden cardiac death risk algorithms for implantable cardioverter defibrillator decision-making, European Heart Journal - Quality of Care and Clinical Outcomes, 2023;, qcad050](https://doi.org/10.1093/ehjqcco/qcad050)
+
 ### Background
 
 Hypertrophic cardiomyopathy(HCM) is a leading cause of sudden cardiac death (SCD) in young adults. Current risk algorithms provide only a crude estimate of risk and fail to account for the different effect size of individual risk factors.
